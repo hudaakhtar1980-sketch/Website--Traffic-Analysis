@@ -1,23 +1,24 @@
-# 📊 Website Traffic Analysis Project
+# 📊 Website Traffic Analysis
 
-## 📝 Overview (अवलोकन)
-यह प्रोजेक्ट वेबसाइट के ट्रैफिक (Website Traffic), यूजर बिहेवियर (User Behavior), और विजिटर्स के सोर्सेज का विश्लेषण करने के लिए बनाया गया है। इसका मुख्य उद्देश्य वेबसाइट के प्रदर्शन (Performance) और conversion rate को बेहतर बनाना है।
-
----
-
-## 🎯 Key Objectives (मुख्य उद्देश्य)
-* **Traffic Sources:** organic, direct, referral, और paid ट्रैफिक को ट्रैक करना।
-* **User Engagement:** bounce rate, average session duration, और page views का विश्लेषण।
-* **User Demographics:** यूज़र्स की लोकेशन, डिवाइस (Desktop/Mobile), और ब्राउजर की जानकारी प्राप्त करना।
-* **Conversion Tracking:** लीड्स और सेल्स में सुधार करना।
+## 📝 Overview
+This project focuses on analyzing website traffic, user behavior, and visitor acquisition sources. The primary goal is to derive actionable insights to optimize website performance, improve user engagement, and enhance overall conversion rates.
 
 ---
 
-## 🛠️ Tools & Technologies (टूल और तकनीक)
-* **Analytics Tools:** Google Analytics 4 (GA4), Search Console / Hotjar
+## 🎯 Key Objectives
+* **Traffic Acquisition:** Analyze traffic sources (Organic, Direct, Referral, Paid, Social).
+* **User Engagement:** Track key metrics such as Bounce Rate, Page Views, and Average Session Duration.
+* **Demographics & Devices:** Identify visitor locations, device usage (Desktop vs. Mobile), and browser trends.
+* **Conversion Tracking:** Measure goal completions and optimize the user conversion funnel.
+
+---
+
+## 🛠️ Tools & Technologies
+* **Analytics Tools:** Google Analytics 4 (GA4), Google Search Console
 * **Data Processing & Analysis:** Python (Pandas, NumPy) / SQL / Excel
 * **Data Visualization:** Power BI / Tableau / Matplotlib & Seaborn
 
 ---
 
-## 📁 Repository Structure (फ़ाइल संरचना)
+## 📁 Project Structure
+
